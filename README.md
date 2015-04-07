@@ -69,7 +69,8 @@ In this general plan, and in the deliverables below.
 
 ### First Milestone (04-13)
 1. **Have the scramble feature working for a set number of cards.**
-2. **Begin to determine the point values for each element of the final score, and how it will be calculated.**
+2. **Determine how to create matches.**
+3. **Begin to determine the point values for each element of the final score, and how it will be calculated.**
 
 ### Second Milestone (04-21)
 1. **Integration of scramble feature with the rest of the game.**

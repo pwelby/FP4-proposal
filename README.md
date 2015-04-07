@@ -41,9 +41,10 @@ Do your homework here: if you are pulling data from somewhere, actually go downl
 If you are using some other starting materails, explain what they are. Basically: anything you plan to use that isn't code.
 -->
 Sound effects will be generated programmatically via the rsound library.
+Visual effects through the cards will be created using the games/cards library.
 
 ### Deliverable and Demonstration
-Our live demonstration will feature the playable matching game, with players winning upon successfully matching all corresponding cards. We plan to shuffle the cards after a set number of incorrect guesses in lieu of a firm lose condition.
+Our live demonstration will feature the playable matching game, with players winning upon successfully matching all corresponding cards. We plan to shuffle the cards after a set number of incorrect guesses in lieu of a firm lose condition. Your score will be calculated using your failed attempts, as well as how long it took you to reach all of the matches.
 
 ### Evaluation of Results
 How will you know if you are successful?
@@ -58,7 +59,8 @@ You will be expected to turn in code, documentation, and data (as appropriate) a
 In this general plan, and in the deliverables below.
 
 ### First Milestone (04-13)
-What exactly will be turned in on this day?
+1. Have the scramble feature working for a set number of cards.
+2. Begin to determine the point values for each element of the final score, and how it will be calculated.
 
 ### Second Milestone (04-21)
 What exactly will be turned in on this day?
@@ -70,7 +72,8 @@ Here each group member gets a section where they, as an individual, detail what 
 will write the....
 
 ### Pat Quaratiello
-will work on...
+
+Will be working on creating the scramble feature after there are several (possibly 5 - we'll need to test what is reasonable) failed attempts at matching cards. I will also be working on the point system with the help of the other members to determine how we can incorporate both missed matches and time into your total score, as well as successful matches.
 
 ### Peter Welby
 will build...

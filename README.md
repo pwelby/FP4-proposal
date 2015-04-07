@@ -44,7 +44,7 @@ Sound effects will be generated programmatically via the rsound library.
 **Visual effects through the cards will be created using the games/cards library.**
 
 ### Deliverable and Demonstration
-Our live demonstration will feature the playable matching game, with players winning upon successfully matching all corresponding cards. We plan to shuffle the cards after a set number of incorrect guesses in lieu of a firm lose condition. ** Your score will be calculated using your failed attempts, as well as how long it took you to reach all of the matches.**
+Our live demonstration will feature the playable matching game, with players winning upon successfully matching all corresponding cards. We plan to shuffle the cards after a set number of incorrect guesses in lieu of a firm lose condition. **Your score will be calculated using your failed attempts, as well as how long it took you to reach all of the matches.**
 
 ### Evaluation of Results
 How will you know if you are successful?

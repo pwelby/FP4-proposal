@@ -44,7 +44,7 @@ Sound effects will be generated programmatically via the rsound library.
 **Visual effects through the cards will be created using the games/cards library.**
 
 ### Deliverable and Demonstration
-Our live demonstration will feature the playable matching game, with players winning upon successfully matching all corresponding cards. We plan to shuffle the cards after a set number of incorrect guesses in lieu of a firm lose condition. Your score will be calculated using your failed attempts, as well as how long it took you to reach all of the matches.
+Our live demonstration will feature the playable matching game, with players winning upon successfully matching all corresponding cards. We plan to shuffle the cards after a set number of incorrect guesses in lieu of a firm lose condition. ** Your score will be calculated using your failed attempts, as well as how long it took you to reach all of the matches.**
 
 ### Evaluation of Results
 How will you know if you are successful?
@@ -60,16 +60,16 @@ In this general plan, and in the deliverables below.
 
 ### General Plan:
 
-1. Create scramble feature.
-2. Determine how to create matches.
-3. Begin point system using matches.
-4. Deterime how to keep time.
-5. Create a final point system based on time, matches and mispatches.
+1. **Create scramble feature.**
+2. **Determine how to create matches.**
+3. **Begin point system using matches.**
+4. **Deterime how to keep time.**
+5. **Create a final point system based on time, matches and mispatches.**
 
 
 ### First Milestone (04-13)
-1. Have the scramble feature working for a set number of cards.
-2. Begin to determine the point values for each element of the final score, and how it will be calculated.
+1. **Have the scramble feature working for a set number of cards.**
+2. **Begin to determine the point values for each element of the final score, and how it will be calculated.**
 
 ### Second Milestone (04-21)
 1. **Integration of scramble feature with the rest of the game.**

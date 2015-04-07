@@ -64,7 +64,7 @@ In this general plan, and in the deliverables below.
 2. **Determine how to create matches.**
 3. **Begin point system using matches.**
 4. **Deterime how to keep time.**
-5. **Create a final point system based on time, matches and mispatches.**
+5. **Create a final point system based on time, matches and mismatches.**
 
 
 ### First Milestone (04-13)

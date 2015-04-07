@@ -58,12 +58,24 @@ You will be expected to turn in code, documentation, and data (as appropriate) a
 
 In this general plan, and in the deliverables below.
 
+### General Plan:
+** 
+1. Create scramble feature.
+2. Determine how to create matches.
+3. Begin point system using matches.
+4. Deterime how to keep time.
+5. Create a final point system based on time, matches and mispatches.
+
+**
+
 ### First Milestone (04-13)
 1. Have the scramble feature working for a set number of cards.
 2. Begin to determine the point values for each element of the final score, and how it will be calculated.
 
 ### Second Milestone (04-21)
-What exactly will be turned in on this day?
+1. Integration of scramble feature with the rest of the game.
+2. Completed scoring system.
+
 
 ## Group Responsibilities
 Here each group member gets a section where they, as an individual, detail what they are responsible for in this project. Each group member writes their own Responsibility section. Include the milestones and final deliverable.

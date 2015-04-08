@@ -88,7 +88,7 @@ Here each group member gets a section where they, as an individual, detail what 
 -->
 
 ### Alex Li
-will write the....
+Will be responsible for initializing the board state, as well as implementing the match checking system. The match checking system will called upon anytime there are two face up cards on the board. If the two cards are matching they will be removed, otherwise they will be flipped back down. Since this would be an ideal place to put any scoring procedures, I will also be working with other members on how to implement the scoring system.
 
 ### Pat Quaratiello
 Will be working on creating the scramble feature after there are several (possibly 5 - we'll need to test what is reasonable) failed attempts at matching cards. I will also be working on the point system with the help of the other members to determine how we can incorporate both missed matches and time into your total score, as well as successful matches.

@@ -1,26 +1,3 @@
-# FP4-proposal
-Project Proposal is due 2015-04-08 at 8am
-
-Produce a plan for your final project, and prepare an in-class presentation.
-
-Ask questions, as always, [on piazza!][piazza]
-
-## Written Proposal Instructions
-
-Teams will submit ONE written proposal, with sections that each member has done individually detailing their proposed contributions. The submission will be on github, as a pull request of this very file. Below is a template proposal report.
-
-You should be proposing something that you have high confidence that you can achieve, and the proposal should project that confidence.
-The proposal should be no longer than necessary, but long enough to include critical detail. Three pages is appropriate. Diagrams are welcome.
-
-Remember, you can do some neat [formatting things with Markdown.][markdown]
-
-## In-Class Presentation Instructions
-Teams will each deliver an in-class presentation. **Presentations will be Wednesday, April 8** (and Friday, April 10 as necessary). The presentation material is due on April 8 by 9 am for everybody. [See piazza for full schedule.][piazza]
-
-Your team will have two minutes to present. Create presentation with two or three slides. Make the slides in google drive, and share the public-viewable link at the bottom of this report. The day of presentations, I'll have the list of links on the display computer, so each team can simply click their link and begin.
-
-(Template follows. You may delete this line and all above it. Please edit the following template to create your report.)
-
 # Project Title: Dr. Match-it
 ### Problem Statement
 Racket lends itself particularly well to creating rules for a card-matching game. Using the `cards` and `rsound` libraries, we can programmatically create matched pairs (or larger sets) of cards which have unique characteristics that are reconciled within each pair or set.
